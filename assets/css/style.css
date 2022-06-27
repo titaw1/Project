@@ -1,0 +1,54 @@
+.text-ssf{
+    color: grey;
+    margin-top: 100px;
+    font-family: 'Philosopher', sans-serif;
+}
+img{
+    padding-bottom: 10px;
+}
+.jenis{
+    padding-top: 50px;
+}
+.container {
+    display: flex;
+}
+nav{
+    margin: 0px 150px 0px 150px;
+}
+.c2{
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.start{
+    font-weight: bold;
+}
+.ui{
+    color: grey;
+    font-family: 'Philosopher', sans-serif;
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.text{
+    /* margin-left: 10px; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-left: 60px;
+}
+.about{
+    /* margin-left: 0px; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.list{
+    list-style: none;
+    padding-left: 0;
+}
+.copyright{
+    padding-top: 10px;
+    text-align: center;
+}
+.name{
+    color: green;
+}
